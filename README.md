@@ -23,6 +23,10 @@ This prototype showcases the **core structure and flow** of BlogZen, focused on 
   <a href="https://github.com/sumudu-k/BlogZen---Figma-Prototype/blob/main/Mockup%20Collection%20%F0%9F%98%8D/mockup.pdf">
     <img src="https://img.shields.io/badge/View%20Full%20Mockup%20PDF-blue?style=for-the-badge&logoColor=blue&logoSize=small&color=%23ee0000" alt="Static Badge">
   </a>
+
+  <a href="https://www.figma.com/design/3lPsX5Ss32xLFP9CENPaGz/BlogZen-Mobile-App?node-id=0-1&t=PsZ0fhuyqvs3S9Na-1">
+    <img src="https://img.shields.io/badge/View%20Figma%20Prototype-blue?style=for-the-badge&logoColor=blue&logoSize=small&color=%230000ee" alt="Static Badge">
+  </a>
 </p>
 
 
