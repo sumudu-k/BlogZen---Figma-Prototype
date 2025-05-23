@@ -18,6 +18,23 @@ This prototype showcases the **core structure and flow** of BlogZen, focused on 
   </tr>
 </table>
 
+
+<a href="https://github.com/sumudu-k/BlogZen---Figma-Prototype/blob/main/Mockup%20Collection%20%F0%9F%98%8D/mockup.pdf" target="_blank" style="
+  display: inline-block;
+  padding: 12px 24px;
+  background-color:orange;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  justify_content:center;
+  text-decoration: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: background-color 0.3s ease;
+">
+View Mockup
+</a>
+
 ---
 
 
