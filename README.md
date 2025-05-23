@@ -4,7 +4,23 @@ Welcome to the **Figma prototype** of **BlogZen** – a modern, minimal article 
 
 This prototype showcases the **core structure and flow** of BlogZen, focused on simplicity, accessibility, and powerful features for everyday users and content creators.
 
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/sumudu-k/BlogZen---Figma-Prototype/refs/heads/main/Mockup%20Collection/login_m.png" alt="Mockup 1" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/sumudu-k/BlogZen---Figma-Prototype/refs/heads/main/Mockup%20Collection/profile_m.png" alt="Mockup 2" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/sumudu-k/BlogZen---Figma-Prototype/refs/heads/main/Mockup%20Collection/notification_m.png" alt="Mockup 3" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/sumudu-k/BlogZen---Figma-Prototype/refs/heads/main/Mockup%20Collection/article_card_m.png" alt="Mockup 4" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/sumudu-k/BlogZen---Figma-Prototype/refs/heads/main/Mockup%20Collection/home_m.png" alt="Mockup 5" width="300"/></td>
+    <td><img src="https://raw.githubusercontent.com/sumudu-k/BlogZen---Figma-Prototype/refs/heads/main/Mockup%20Collection/article_m.png" alt="Mockup 6" width="300"/></td>
+  </tr>
+</table>
+
 ---
+
+
 
 ## 🚀 Key Features
 
