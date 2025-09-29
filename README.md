@@ -66,21 +66,6 @@ This prototype showcases the **core structure and flow** of BlogZen, focused on 
 - UI emphasizes **clarity**, **readability**, and a **Zen-inspired** calming design.
 - Clean typography and intuitive layout for easy navigation.
 
----
-
-## 🤝 Collaboration
-
-Want to improve or expand this prototype?  
-You're welcome to **fork** this project and build upon it.
-
-> 📎 To contribute:
->
-> - Fork this project
-> - Create a new branch
-> - Add your updates
-> - Submit a pull request!
-
-Collaboration is always welcome!
 
 ---
 
